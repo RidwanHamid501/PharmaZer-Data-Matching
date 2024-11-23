@@ -1,0 +1,8 @@
+pytest 
+pylint
+python-dotenv
+pandas
+rapidfuzz
+boto3
+pycountry
+spacy
