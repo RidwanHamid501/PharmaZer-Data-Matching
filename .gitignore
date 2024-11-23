@@ -82,6 +82,5 @@ venv/
 
 .venv
 *.xml
-*.csv
 .env
 *.tfvars
