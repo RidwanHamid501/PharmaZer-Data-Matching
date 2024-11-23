@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31644467</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1531-6963</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in rheumatology</Title>
+                <ISOAbbreviation>Curr Opin Rheumatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Common and rare forms of vasculitis associated with Sjögren's syndrome.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/BOR.0000000000000668</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE OF REVIEW" NlmCategory="OBJECTIVE">Although uncommon, systemic vasculitis is one of the most severe extraglandular manifestations of primary Sjögren's syndrome (pSS) accounting for the increased morbidity and mortality of the disease. This review aims to describe major previous and recent reports regarding the clinical presentation, prognosis and treatment of systemic vasculitis associated with pSS.</AbstractText>
+                <AbstractText Label="RECENT FINDINGS" NlmCategory="RESULTS">Both older and recent pSS cohort studies performed over the past several and recent years, have clearly shown that cryoglobulinaemic vasculitis is the most frequent type of systemic vasculitis accompanying pSS. Antineutrophil cytoplasmic antibody-associated, large and medium vessel vasculitis are described only in sporadic cases. In addition to the overt clinical manifestations of cryoglobulinaemic vasculitis, type II cryoglobulinaemia, glomerulonephritis and purpura have been correlated with increased risk for B-cell non-Hodgkin lymphoma (NHL) in pSS.</AbstractText>
+                <AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">pSS is characterized by autoreactive B and T-cell infiltrates around the epithelial structures of the affected organs, as well as, B-cell hyperreactivity. The latter, is attested by the increased production of autoantibodies, directed against many different organ and nonorgan self-antigens. Vasculitis is a significant and potentially life-threatening complication of the disease depending on the size, localization, histologic type and the pathogenetic mechanisms of the inflammatory process. The potentially irreversible tissue damage, as well as the increased risk for NHL development, prompts the need for early diagnosis and treatment of cryoglobulinaemic vasculitis in pSS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Argyropoulou</LastName>
+                    <ForeName>Ourania D</ForeName>
+                    <Initials>OD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathophysiology, School of Medicine, National and Kapodistrian University of Athens, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tzioufas</LastName>
+                    <ForeName>Athanasios G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Opin Rheumatol</MedlineTA>
+            <NlmUniqueID>9000851</NlmUniqueID>
+            <ISSNLinking>1040-8711</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31644467</ArticleId>
+            <ArticleId IdType="doi">10.1097/BOR.0000000000000668</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
